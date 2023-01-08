@@ -14,7 +14,7 @@
 
 |  #  | Attribute         | Description   | Data Type     | Example        | 
 | ----| -------------     | ------------- | ------------- | -------------  | 
-| 1   | location          | สถานที         | String        | Pha Hin Dam    |
+| 1   | Location          | สถานที         | String        | Pha Hin Dam    |
 | 2   | Check-in          | วันเข้าใช้บริการ   | String        | 2023-01-01     |
 | 3   | Check-out         | วันออก         | String        | 2023-01-05     |
 | 4   | Number of guests  | จำนวนผู้เข้าพัก   | Integer       | 6              |
